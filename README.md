@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://photos.app.goo.gl/EccxnDUWaRUixzi77" />
 </div>
 
 ###
@@ -47,17 +47,23 @@
 
 ###
 
-<h3 align="center" dir="rtl" style="font-family: 'Tajawal', sans-serif;">🌐 بعض المواقع التي شاركت في تطويرها</h3>
+<h3 align="center" dir="rtl">🌐 بعض المواقع التي شاركت في تطويرها</h3>
 
 <div align="center">
-  <a href="https://example1.com" target="_blank">
-    <img src="https://img.shields.io/badge/Example1-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Example1" />
+  <!-- technoGeX -->
+  <a href="https://technogex.com" target="_blank">
+    <img src="https://img.shields.io/badge/technoGeX-Frontend%20Dev-blue?style=for-the-badge&logo=chrome&logoColor=white" height="30" alt="technoGeX" />
   </a>
-  <a href="https://example2.com" target="_blank">
-    <img src="https://img.shields.io/badge/Example2-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Example2" />
+  
+  <!-- my.quetta.ly -->
+  <a href="https://my.quetta.ly" target="_blank">
+    <img src="https://img.shields.io/badge/my.quetta.ly-Portal-green?style=for-the-badge&logo=chrome&logoColor=white" height="30" alt="my.quetta.ly" />
   </a>
-  <a href="https://example3.com" target="_blank">
-    <img src="https://img.shields.io/badge/Example3-3F51B5?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Example3" />
+
+  <!-- ICCSPM -->
+  <a href="https://iccspm.com" target="_blank">
+    <img src="https://img.shields.io/badge/ICCSPM-Website-red?style=for-the-badge&logo=chrome&logoColor=white" height="30" alt="ICCSPM" />
   </a>
 </div>
+
 
