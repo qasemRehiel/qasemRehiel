@@ -64,6 +64,19 @@
   <a href="https://iccspm.com" target="_blank">
     <img src="https://img.shields.io/badge/ICCSPM-Website-red?style=for-the-badge&logo=chrome&logoColor=white" height="30" alt="ICCSPM" />
   </a>
+
+  <!-- Almoghtarib Training Center -->
+  <a href="https://www.almoghtarib-training.center/" target="_blank">
+    <img src="https://img.shields.io/badge/Almoghtarib-Training%20Center-orange?style=for-the-badge&logo=chrome&logoColor=white" height="30" alt="Almoghtarib Training Center" />
+  </a>
 </div>
 
+###
 
+<h3 align="center" dir="rtl">📸 لقطات الشاشة (Screenshots)</h3>
+
+<div align="center">
+  <!-- ضع هنا الصور -->
+  <!-- مثال -->
+  <img src="https://i.imgur.com/smRk7aJ.png" alt="Project screenshot" width="300" />
+</div>
