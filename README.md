@@ -78,5 +78,5 @@
 <div align="center">
   <!-- ضع هنا الصور -->
   <!-- مثال -->
-  <img src="https://i.imgur.com/smRk7aJ.png" alt="Project screenshot" width="300" />
+  <img src="./img1.png" alt="Project screenshot" width="300" />
 </div>
