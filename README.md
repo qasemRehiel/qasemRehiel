@@ -75,15 +75,17 @@
 
 <h3 align="center" dir="rtl">📸 لقطات الشاشة (Screenshots)</h3>
 
-<div align="center">
-  <!-- ضع هنا الصور -->
-  <!-- مثال -->
-  <img src="./img1.png" alt="Project screenshot" width="300" />
-  <img src="./img2.png" alt="Project screenshot" width="300" />
-  <img src="./img3.png" alt="Project screenshot" width="300" />
-  <img src="./img4.png" alt="Project screenshot" width="300" />
-  <img src="./img5.png" alt="Project screenshot" width="300" />
-  <img src="./img6.png" alt="Project screenshot" width="300" />
-  <img src="./img7.png" alt="Project screenshot" width="300" />
-  <img src="./img8.png" alt="Project screenshot" width="300" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
+  <!-- مثال لصورك -->
+  <img src="./img1.png" alt="Screenshot 1" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img2.png" alt="Screenshot 2" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img3.png" alt="Screenshot 3" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img4.png" alt="Screenshot 4" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img5.png" alt="Screenshot 5" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img6.png" alt="Screenshot 6" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img7.png" alt="Screenshot 7" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <img src="./img8.png" alt="Screenshot 8" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+
 </div>
+
