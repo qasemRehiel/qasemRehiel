@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>السيرة الذاتية — القاسم سالم محمد رحيل</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        :root {
+            --primary: #005c97;
+            --secondary: #363795;
+            --accent: #005c97;
+            --muted: #6c757d;
+            --bg: #f8f9fa;
+            --card-bg: #ffffff;
+            --text-color: #212529;
+            --heading-color: #000;
+            --border-color: #dee2e6;
+            --shadow: 0 4px 12px rgba(0, 0, 0, 0.05 );
+            --radius: 8px;
+            --maxw: 960px;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Tajawal", sans-serif;
+            background-color: var(--bg);
+            color: var(--text-color);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            padding: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: var(--maxw);
+            background-color: var(--card-bg);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+
+        .content-wrapper {
+            padding: 2.5rem;
+        }
+
+        /* Header */
+        .header {
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(145deg, var(--primary), var(--secondary));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            color: white;
+            font-size: 2rem;
+            flex-shrink: 0;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--heading-color);
+        }
+
+        .sub {
+            color: var(--muted);
+            font-size: 1rem;
+            margin-top: 0.25rem;
+        }
+
+        /* Contact */
+        .contact {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-top: 1rem;
+        }
+
+        .contact a {
+            display: inline-flex;
+            gap: 0.5rem;
+            align-items: center;
+            background-color: #f1f3f5;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius);
+            color: var(--text-color);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: background-color 0.2s ease;
+        }
+
+        .contact a:hover {
+            background-color: #e9ecef;
+        }
+        
+        .contact a i {
+            color: var(--accent);
+        }
+
+        /* Layout */
+        .layout {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        @media(min-width: 768px) {
+            .layout {
+                flex-direction: row;
+            }
+            .main-content {
+                flex: 2;
+            }
+            .sidebar {
+                flex: 1;
+            }
+        }
+
+        /* Section */
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section h3 {
+            margin: 0 0 1rem 0;
+            font-size: 1.25rem;
+            color: var(--accent);
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--accent);
+            display: inline-block;
+        }
+
+        p.lead {
+            margin: 0;
+            font-size: 1rem;
+            line-height: 1.8;
+        }
+
+        /* Lists */
+        ul.clean {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        ul.clean li {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid #f1f3f5;
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+
+        ul.clean li:last-child {
+            border-bottom: 0;
+        }
+
+        .project {
+            margin-bottom: 1.5rem;
+        }
+        
+        .project-title {
+            font-weight: 700;
+            margin: 0 0 0.25rem 0;
+            font-size: 1.1rem;
+            color: var(--heading-color);
+        }
+
+        .project-meta {
+            color: var(--muted);
+            font-size: 0.85rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .project p {
+            margin: 0;
+        }
+
+        /* Sidebar */
+        .sidebar .section {
+            background-color: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: var(--radius);
+        }
+        
+        .sidebar .section h4 {
+            margin: 0 0 1rem 0;
+            font-size: 1.1rem;
+            color: var(--accent);
+        }
+
+        .sidebar p,
+        .sidebar li {
+            margin: 0;
+            font-size: 0.95rem;
+            color: var(--text-color);
+            padding: 0.3rem 0;
+        }
+        
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .sidebar a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        
+        .sidebar a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 2rem;
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.85rem;
+            padding: 1.5rem;
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content-wrapper">
+            <!-- Header -->
+            <header class="header">
+                <div class="avatar">ق.ر</div>
+                <div>
+                    <h1>القاسم سالم محمد رحيل</h1>
+                    <p class="sub">مطور ويب وتطبيقات • طالب طب • أجدابيا، ليبيا</p>
+                    <div class="contact" aria-label="Contact">
+                        <a href="tel:+218946404251"><i class="fas fa-phone-alt"></i> +218946404251</a>
+                        <a href="mailto:alqasemzyi@gmail.com"><i class="fas fa-envelope"></i> البريد الإلكتروني</a>
+                        <a href="https://t.me/Qasem_dev" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram</a>
+                        <a href="https://alqasem.itch.io/" target="_blank"><i class="fas fa-gamepad"></i> itch.io</a>
+                    </div>
+                </div>
+            </header>
+
+            <div class="layout">
+                <!-- Main Content -->
+                <main class="main-content">
+                    <section class="section">
+                        <h3>نبذة مختصرة</h3>
+                        <p class="lead">
+                            مطور ويب وتطبيقات أملك خبرة عملية في بناء واجهات مستخدم وتطوير أنظمة تعتمد على المزامنة
+                            السحابية (Firebase ). أعمل على إنشاء حلول عملية ومباشرة تُسهِم في إنجاز الأعمال، وقد شاركت في
+                            مشاريع فردية ومع فرق صغيرة.
+                        </p>
+                    </section>
+
+                    <section class="section">
+                        <h3>الإنجازات</h3>
+                        <ul class="clean">
+                            <li>
+                                المشاركة في مؤتمر التقنية والابتكار — بنغازي (يونيو 2024) مع بحث:
+                                <strong>SDP — Doctor–Patient Relationship Application</strong>.
+                                البحث منشور ومعتمد على الرابط:
+                                <a href="https://aaasjournals.com/index.php/ajapas/article/view/827"
+                                    target="_blank">رابط البحث</a>
+                            </li>
+                            <li>تطوير عدة منصات ومواقع قيد الاستخدام محليًا (مشاريع تجارية وحكومية صغيرة ).</li>
+                            <li>تقديم حلول واجهات مستخدم متجاوبة ومبسطة لفرق عمل صغيرة.</li>
+                        </ul>
+                    </section>
+
+                    <section class="section">
+                        <h3>المشاريع</h3>
+                        <div class="project">
+                            <h4 class="project-title">PlayX Pro System — نظام إدارة صالات الألعاب والمقاهي</h4>
+                            <p class="project-meta">HTML, CSS, JavaScript, jQuery, Firebase — واجهات للتابلت (Android)</p>
+                            <p>نظام لإدارة الأجهزة، الجلسات، المبيعات، والجرد المتقدم؛ يشمل تتبع الأرباح وتقارير يومية ومزامنة سحابية.</p>
+                        </div>
+                        <div class="project">
+                            <h4 class="project-title">SDP — Doctor–Patient Relationship Application</h4>
+                            <p class="project-meta">بحث عُرض في مؤتمر التقنية والابتكار 2024 — بنغازي</p>
+                            <p>تطبيق يسهل تواصل الطبيب مع المريض وإدارة المواعيد والسجلات الصحية الأساسية.</p>
+                        </div>
+                        <div class="project">
+                            <h4 class="project-title">technoGeX</h4>
+                            <p class="project-meta">Frontend Development & Design</p>
+                            <p>تطوير واجهات المستخدم وتحسين تجربة الزوار والأداء.</p>
+                        </div>
+                        <div class="project">
+                            <h4 class="project-title">my.quetta.ly — بوابة المستخدمين</h4>
+                            <p class="project-meta">واجهة مستخدم، تكامل مع APIs</p>
+                            <p>بوابة تعرض خدمات للمستخدمين مع تحسين الأداء وتجربة الاستخدام.</p>
+                        </div>
+                        <div class="project">
+                            <h4 class="project-title">ICCSPM — موقع تعليمي</h4>
+                            <p class="project-meta">تطوير الموقع وتحسين البنية</p>
+                            <p>موقع تعليمي مع صفحات عرض منسقة وتجربة مستخدم واضحة.</p>
+                        </div>
+                        <div class="project">
+                            <h4 class="project-title">Almoghtarib Training Center</h4>
+                            <p class="project-meta">مساهمة في تطوير الموقع</p>
+                            <p>تجهيز الواجهة الرئيسية وأقسام المحتوى للعرض والتصفح.</p>
+                        </div>
+                    </section>
+                </main>
+
+                <!-- Sidebar -->
+                <aside class="sidebar">
+                    <section class="section">
+                        <h4>المؤهل الدراسي</h4>
+                        <p><strong>طالب بكلية الطب</strong> — جامعة أجدابيا</p>
+                        <p style="margin-top: 0.5rem;"><strong>ثانوية عمر المختار</strong> — أجدابيا (تقدير: ممتاز)</p>
+                    </section>
+
+                    <section class="section">
+                        <h4>المهارات التقنية</h4>
+                        <ul>
+                            <li>HTML5 · CSS3 · JavaScript</li>
+                            <li>jQuery · Firebase (Auth/Firestore/Storage)</li>
+                            <li>React Native · Android web apps</li>
+                            <li>PHP (متوسط) · Node.js (أساسيات)</li>
+                            <li>Git / GitHub · تصميم واجهات UI/UX</li>
+                        </ul>
+                    </section>
+
+                    <section class="section">
+                        <h4>اللغات</h4>
+                        <ul>
+                            <li>العربية — لغة أم</li>
+                            <li>الإنجليزية — جيد جدًا</li>
+                        </ul>
+                    </section>
+
+                    <section class="section">
+                        <h4>روابط</h4>
+                        <ul>
+                            <li><a href="https://technogex.com" target="_blank">technogex.com</a></li>
+                            <li><a href="https://my.quetta.ly" target="_blank">my.quetta.ly</a></li>
+                            <li><a href="https://iccspm.com" target="_blank">iccspm.com</a></li>
+                            <li><a href="https://www.almoghtarib-training.center/" target="_blank">almoghtarib-training.center</a></li>
+                        </ul>
+                    </section>
+                </aside>
+            </div>
+        </div>
+        <footer class="footer">
+            آخر تحديث: ديسمبر 2025 — للإطلاع على مزيد من الأعمال أو طلب السيرة بصيغة PDF، تواصل عبر البريد أو الهاتف.
+        </footer>
+    </div>
+</body>
+
+</html>
