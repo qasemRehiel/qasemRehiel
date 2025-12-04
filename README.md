@@ -79,4 +79,11 @@
   <!-- ضع هنا الصور -->
   <!-- مثال -->
   <img src="./img1.png" alt="Project screenshot" width="300" />
+  <img src="./img2.png" alt="Project screenshot" width="300" />
+  <img src="./img3.png" alt="Project screenshot" width="300" />
+  <img src="./img4.png" alt="Project screenshot" width="300" />
+  <img src="./img5.png" alt="Project screenshot" width="300" />
+  <img src="./img6.png" alt="Project screenshot" width="300" />
+  <img src="./img7.png" alt="Project screenshot" width="300" />
+  <img src="./img8.png" alt="Project screenshot" width="300" />
 </div>
