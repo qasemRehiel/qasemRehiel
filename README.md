@@ -1,79 +1,62 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://wa.me/+218946404251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp logo" />
   </a>
   <a href="https://t.me/Qasem_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo" />
   </a>
-  <a href="https://alqasemzyi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:alqasemzyi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
   <a href="https://alqasem.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Itch.io logo" />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=qasemRehiel.qasemRehiel&"  />
-</div>
+<h1 align="center">مرحبا 👋 أنا القاسم</h1>
+
+<p align="center">
+مبرمج ومطور تطبيقات ويب وأندرويد من ليبيا 🇱🇾، أعمل على تطوير مشاريع احترافية ومبتكرة، وأركز حالياً على React Native، APIs، وتقنيات الذكاء الاصطناعي.  
+💻 أطور تطبيقات وبرامج ويب، 🎮 ألعاب فيديو، وأسعى دائماً لتعلم أحدث التقنيات.
+</p>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hello 👋! I'm AlQasem from Libya 🇱🇾.<br><br>My Roles:<br>🩺 I am a student of Human Medicine.<br>💻 I work as an App and Web Developer.<br><br>Current Focus:<br>📚 I am currently focusing on learning React Native, APIs, and AI technologies 🤖.<br>🎮 In my free time, I develop video games 🕹️.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="center">🛠 التقنيات والأدوات التي أعمل بها</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=qasemRehiel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="Electron logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="Android logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode logo" />
 </div>
 
 ###
+
+<h3 align="center">🌐 بعض المواقع التي شاركت في تطويرها</h3>
+
+<div align="center">
+  <a href="https://example1.com" target="_blank">
+    <img src="https://img.shields.io/badge/Example1-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Example1" />
+  </a>
+  <a href="https://example2.com" target="_blank">
+    <img src="https://img.shields.io/badge/Example2-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Example2" />
+  </a>
+  <a href="https://example3.com" target="_blank">
+    <img src="https://img.shields.io/badge/Example3-3F51B5?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Example3" />
+  </a>
+</div>
