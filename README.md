@@ -12,9 +12,6 @@
   <a href="mailto:alqasemzyi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" />
   </a>
-  <a href="https://alqasem.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="27" />
-  </a>
 </div>
 
 ---
@@ -23,10 +20,7 @@
 مرحبًا 👋 أنا القاسم
 </h1>
 
-<p align="center" dir="rtl" style="font-family: 'Tajawal', sans-serif; font-size: 18px; line-height: 1.7; max-width: 750px; margin: 0 auto; margin-bottom: 35px;">
-أنا مطور تطبيقات ويب وأندرويد من ليبيا 🇱🇾. أعمل على تطوير مشاريع احترافية ومبتكرة، وأركز حاليًا على تعلم React Native، APIs، وتقنيات الذكاء الاصطناعي.  
-كما أشارك في تطوير ألعاب فيديو وبرامج تفاعلية، وأسعى دائمًا لتعلم أحدث التقنيات واستخدامها في مشاريع عملية.
-</p>
+
 
 ---
 
