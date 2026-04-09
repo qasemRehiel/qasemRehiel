@@ -48,9 +48,9 @@
 </h3>
 
 <div align="center" style="margin-bottom: 40px;">
-  <a href="https://technogex.com" target="_blank">
+  <!-- <a href="https://technogex.com" target="_blank">
     <img src="https://img.shields.io/badge/technoGeX-Frontend%20Dev-red?style=for-the-badge&logo=chrome&logoColor=white" height="32" />
-  </a>
+  </a> -->
   <a href="https://my.quetta.ly" target="_blank">
     <img src="https://img.shields.io/badge/my.quetta.ly-Portal-green?style=for-the-badge&logo=chrome&logoColor=white" height="32" />
   </a>
