@@ -60,7 +60,7 @@
       <td align="center">
         <strong>Software Developer</strong><br />
         Al-Taghita Company · Tobruk, Libya<br />
-        <em>2024 – Present</em>
+        <em>2025 – Present</em>
       </td>
     </tr>
   </table>
@@ -82,28 +82,92 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td><strong>Network Management System</strong></td>
-    <td>PHP · Node.js · SQL · SAS Radius API · Payment Gateway</td>
-    <td>Complete AAA solution with unified billing and multi‑provider payment support.</td>
-  </tr>
-  <tr>
-    <td><strong>PlayX Pro System</strong></td>
-    <td>HTML · CSS · JS · jQuery · Firebase</td>
-    <td>Arcade &amp; café management with inventory, sales analytics, and daily reports.</td>
-  </tr>
-  <tr>
-    <td><strong>my.quetta.ly — User Portal</strong></td>
-    <td>UI · API Integration · Performance</td>
-    <td>User‑facing portal with fast loading and seamless backend integration.</td>
-  </tr>
-  <tr>
-    <td><strong>SDP — Doctor–Patient App</strong></td>
-    <td>Research · Conference 2024</td>
-    <td>Communication &amp; appointment scheduling app. <a href="https://aaasjournals.com/index.php/ajapas/article/view/827">Published paper</a></td>
-  </tr>
-</table>
+<br />
+
+### 🔬 1. SDP — Doctor–Patient Relationship Application
+> **🏆 Primary Research Project · Published Paper**
+
+| Detail | Description |
+|--------|-------------|
+| **Technologies** | HTML, CSS, JavaScript, Firebase |
+| **Type** | Research Prototype · Conference Paper |
+| **Conference** | Innovation & Technology Conference — Benghazi, June 2024 |
+| **Status** | ✅ Published & Indexed |
+
+**Overview:**
+An application designed to improve communication between doctors and patients, featuring:
+- Appointment scheduling and management
+- Basic health record keeping
+- Secure messaging between doctors and patients
+
+**Publication:**
+<a href="https://aaasjournals.com/index.php/ajapas/article/view/827" target="_blank">
+  <img src="https://img.shields.io/badge/View_Paper-AAAS_Journals-1A73E8?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
+
+---
+
+### 2. Lab X — Desktop Application
+> **⚡ Cross‑Platform Desktop Application**
+
+| Detail | Description |
+|--------|-------------|
+| **Technologies** | Node.js, Electron.js, JavaScript, HTML, CSS |
+| **Type** | Desktop Application |
+| **Platform** | Cross‑platform (Windows, macOS, Linux) |
+
+**Overview:**
+A feature‑rich desktop application built with Electron.js, demonstrating:
+- Native desktop functionality with web technologies
+- Seamless integration with system APIs
+- Modern UI/UX with responsive design
+
+---
+
+### 3. Network Management System — Al-Taghita
+> **🌐 Enterprise Network Solution**
+
+| Detail | Description |
+|--------|-------------|
+| **Technologies** | PHP, SQL, SAS Radius API, REST APIs, Payment Gateway |
+| **Type** | Enterprise Network Management |
+| **Status** | In Production |
+
+**Overview:**
+Complete network management solution integrating SAS Radius for AAA (Authentication, Authorization, Accounting):
+- Unified billing system with multi‑provider payment support
+- Real‑time subscription management
+- Automated reporting and monitoring dashboards
+
+---
+
+### 4. PlayX Pro System
+> **🎮 Arcade & Café Management**
+
+| Detail | Description |
+|--------|-------------|
+| **Technologies** | HTML, CSS, JavaScript, jQuery, Firebase |
+| **Platform** | Tablet‑optimised Web Application |
+
+**Overview:**
+Comprehensive management system for arcades and gaming cafes:
+- Device session tracking
+- Inventory management
+- Sales analytics and daily profit reports
+- Firebase cloud synchronization
+
+---
+
+### 5. my.quetta.ly — User Portal
+> **🌍 User‑Facing Web Portal**
+
+| Detail | Description |
+|--------|-------------|
+| **Technologies** | HTML, CSS, JavaScript, API Integration |
+| **Focus** | Performance & UX |
+
+**Overview:**
+User‑facing portal with clean interface, fast loading, and seamless backend integration. Optimised for performance and accessibility.
 
 ---
 
