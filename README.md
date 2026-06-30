@@ -59,7 +59,7 @@
     <tr>
       <td align="center">
         <strong>Software Developer</strong><br />
-        Al-Taghita Company · Tobruk, Libya<br />
+        <strong>Altaghtia IT</strong> · Tobruk, Libya<br />
         <em>2025 – Present</em>
       </td>
     </tr>
@@ -124,7 +124,7 @@ A feature‑rich desktop application built with Electron.js, demonstrating:
 
 ---
 
-### 3. Network Management System — Al-Taghita
+### 3. Network Management System — Altaghtia IT
 > **🌐 Enterprise Network Solution**
 
 | Detail | Description |
